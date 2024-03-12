@@ -15,11 +15,11 @@ st.write('Jovan Amarta Liem')
 col1, col2 = st.columns(2)
 
 with col1:
-    Year = st.selectbox('Select the year of purchase', ('2015', '2014', '2013', '2012',
-                                                        '2011', '2010', '2009', '2008',
-                                                        '2007', '2006', '2005', '2004',
-                                                        '2003', '2002', '2001', '2000',
-                                                        '1999', '1998'))
+    Year = st.selectbox('Select the year of purchase', (2015, 2014, 2013, 2012,
+                                                        2011, 2010, 2009, 2008,
+                                                        2007, 2006, 2005, 2004,
+                                                        2003, 2002, 2001, 2000,
+                                                        1999, 1998))
 
 with col2:
     Make = st.selectbox('Select who make the product', ('Kia', 'BMW', 'Volvo', 'Nissan', 'Chevrolet', 'Audi', 'Ford',
