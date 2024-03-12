@@ -1,5 +1,5 @@
 # Vehicle Price Prediction 
 Hello there ! <br />
 My name is Jovan. <br />
-Streamlit app link: [Streamlit App](https://vehicle-price-prediction-jov.streamlit.app/)
+Streamlit app link: [Streamlit App](https://vehicle-price-prediction-jov.streamlit.app/) <br />
 Dataset app link: [Dataset](https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data/data)
